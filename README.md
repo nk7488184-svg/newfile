@@ -1,2 +1,5 @@
+#FirstGIT
+<b>
 this is my first git repository
-auhor - Neeraj kumar
+<b>
+author - Neeraj kumar
