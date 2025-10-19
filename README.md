@@ -1,5 +1,5 @@
 #FirstGIT
-<b>
+<br>
 this is my first git repository
-<b>
+<br>
 author - Neeraj kumar
